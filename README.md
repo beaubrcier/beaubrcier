@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beaubrcier
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning Java and C++
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Java and C++ 
 - 📫 How to reach me is a secret
 
 <!---
